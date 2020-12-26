@@ -1,0 +1,534 @@
+.header {
+    display: none;
+}
+
+.section1 h1 {
+    font-size: 2rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    margin-left: 50px;
+    margin-right: 0px;
+    padding-top: 3.5rem;
+}
+
+.section1 p {
+    font-size: 1rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    padding-top: 2rem;
+    margin-left: 50px;
+    margin-right: 90px;
+    line-height: 1.8em;
+}
+
+.section1 img {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.cockpit h2 {
+    font-size: 1.75rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    padding-top: 3rem;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.cockpit p {
+    font-size: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    line-height: 1.8em;
+}
+
+.cockpit img {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.chart h2 {
+    padding-top: 3rem;
+}
+
+.chart p {
+    font-size: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    line-height: 1.8em;
+}
+
+.chart img {
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+.row1 h2 {
+    font-size: 2rem;
+    padding-top: 3rem;
+}
+
+.row1 p {
+    font-size: 1rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    line-height: 1.8em;
+    padding-bottom: 2rem;
+}
+
+.parent {
+    display: flex;
+    flex-direction: column;
+}
+
+.row2 {
+    width: 100%;
+}
+
+.row3 {
+    width: 100%;
+}
+
+.row4 {
+    width: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.row2 h3 {
+    font-size: 1.2rem;
+    padding-top: 1rem;
+    padding-left: 2rem;
+}
+
+.row2 p {
+    font-size: 1rem;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    line-height: 1.8em;
+}
+
+.row3 img {
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+
+.row5 {
+    width: 100%;
+}
+
+.dashboard {
+    display: block;
+}
+
+.row5 h3 {
+    font-size: 1.25rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    text-align: left;
+    padding-top: 2rem;
+}
+
+.row5 p {
+    font-size: 1rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    line-height: 1.8em;
+}
+
+.row4 img {
+    width: 100%;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-right: 2rem;
+}
+
+.dashboard button {
+    padding: 15px 30px;
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 15px -40px 10px 60px;
+}
+
+.email {
+    display: block;
+}
+
+.row6 {
+    width: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.row7 {
+    width: 100%;
+}
+
+.row6 h3 {
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+
+.row6 p {
+    font-size: 1rem;
+    padding-top: 1rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    line-height: 1.8em;
+}
+
+.row7 img {
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.slice {
+    display: block;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.subslice1 p {
+    font-size: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    line-height: 1.8em;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.subslice2 img {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.revolution {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    padding-top: 3rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+.revolution p {
+    font-size: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    line-height: 1.8em;
+}
+
+.sql1 {
+    text-align: center;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+}
+
+.sql1 p {
+    font-size: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    line-height: 1.8em;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.sqlsubsection {
+    display: block
+}
+
+.sql2 {
+    width: 100%;
+}
+
+.sql3 {
+    width: 100%;
+}
+
+.sql2 h3 {
+    font-size: 1.25rem;
+    text-align: center;
+    padding-top: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+.sql2 p {
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 2rem;
+    padding-right: 4rem;
+    padding-left: 4rem;
+    line-height: 1.8em;
+}
+
+.sql3 img {
+    width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 2rem;
+}
+
+.digdeeper {
+    display: block;
+}
+
+.dig1 {
+    width: 100%;
+}
+
+.dig1 img {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 4rem;
+}
+
+.dig2 {
+    width: 100%;
+}
+
+.dig2 h3 {
+    font-size: 2rem;
+    padding-right: 2rem;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.dig2 p {
+    font-size: 1rem;
+    line-height: 1.8em;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+.sqlalert {
+    padding-top: 4rem;
+}
+
+.sqlalert img {
+    width: 100%;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 4rem;
+}
+
+.sqlalert p {
+    font-size: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    line-height: 1.8em;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.security {
+    display: block;
+    flex-direction: column;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.lock {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 0rem;
+}
+
+.shield {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-right: 0rem;
+}
+
+.lock img {
+    max-width: 100%;
+}
+
+.lockimg {
+    width: 100%;
+    padding-left: 11rem;
+    padding-right: 12rem;
+}
+
+.shieldimg {
+    width: 110%;
+    padding-left: 10.5rem;
+    padding-right: 14rem;
+}
+
+.locktext {
+    width: 100%;
+}
+
+.shieldext {
+    width: 100%;
+}
+
+.lock h2 {
+    margin-left: 0rem;
+    padding-top: 2rem;
+}
+
+.lock p {
+    margin-left: 0rem;
+    font-family: 'lato';
+    font-size: 1rem;
+    font-weight: 100;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    line-height: 1.8em;
+    padding-top: 1rem;
+}
+
+.shield img {
+    padding-top: 4rem;
+    max-width: 80%;
+}
+
+.shield h2 {
+    margin-left: 0rem;
+    padding-top: 2rem;
+    text-align: center;
+    font-family: 'lato';
+    font-size: 1.75rem;
+    font-weight: 900;
+}
+
+.shield p {
+    margin-left: 3rem;
+    margin-right: 3rem;
+    font-size: 1rem;
+    line-height: 1.8em;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.getstartedfree h2 {
+    font-size: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.getstartedfree p {
+    font-family: 'lato';
+    color: #263852;
+    font-size: 1.2rem;
+    padding-top: 2rem;
+    font-weight: 100;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    line-height: 1.8em;
+}
+
+.getstartedfree {
+    padding-top: 4rem;
+}
+
+.convinced {
+    padding-top: 2rem;
+}
+
+.convinced p {
+    font-size: 1rem;
+    padding-top: 1.5rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    line-height: 1.8em;
+}
+
+.demobutton {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.demobutton {
+    display: flex;
+    flex-direction: column;
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer1 ul {
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+
+.footer2 ul {
+    padding-left: 2rem;
+    padding-top: 4rem;
+}
+
+.footer3 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding-top: 3rem;
+    padding-right: 0rem;
+    text-align: left;
+}
+
+.address {
+    font-family: 'lato';
+    font-size: 1rem;
+    color: white;
+    text-align: left;
+    line-height: 1.8em;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+}
+
+.mailid p {
+    font-size: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    text-align: left;
+}
+
+.social img {
+    margin-left: 1rem;
+    padding-left: 1rem;
+}
+
+.footerbar {
+    display: flex;
+    flex-direction: column;
+}
+
+.credit {
+    padding-left: 2rem;
+}
+
+.copyright {
+    position: relative;
+    left: 0;
+    padding-left: 2rem;
+    padding-top: 2rem;
+}

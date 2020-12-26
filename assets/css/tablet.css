@@ -1,0 +1,198 @@
+.section1 h1 {
+    text-align: center;
+}
+
+.section1 p {
+    font-size: 1.125rem;
+    padding-top: 2rem;
+    line-height: 1.8em;
+    text-align: center;
+}
+
+.section1 img {
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+
+.cockpit h2 {
+    padding-top: 3rem;
+}
+
+.cockpit p {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    line-height: 1.8em;
+}
+
+.cockpit img {
+    padding-bottom: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 3rem;
+}
+
+.chart p {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.chart img {
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+
+.row1 p {
+    padding-left: 5rem;
+    padding-right: 5rem;
+    line-height: 1.8em;
+}
+
+.row2 h3 {
+    padding-left: 6rem;
+}
+
+.row2 p {
+    padding-left: 6rem;
+    line-height: 1.8em;
+}
+
+.row3 img {
+    padding-right: 6rem;
+    padding-left: 2rem;
+    padding-top: 3rem;
+}
+
+.row4 img {
+    padding-left: 6rem;
+    padding-top: 4rem;
+    padding-right: 3rem;
+}
+
+.row5 p {
+    padding-right: 6rem;
+    line-height: 1.8em;
+}
+
+.row6 h3 {
+    padding-left: 6rem;
+}
+
+.row6 p {
+    padding-left: 6rem;
+    line-height: 1.8em;
+}
+
+.row7 img {
+    padding-right: 6rem;
+}
+
+.subslice1 p {
+    padding-left: 6rem;
+    padding-right: 6rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    line-height: 1.8em;
+}
+
+.subslice2 img {
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+.sql1 p {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    line-height: 1.8em;
+}
+
+.sql3 img {
+    width: 200%;
+    padding-top: 5rem;
+}
+
+.sql2 p {
+    padding-right: 2rem;
+    padding-left: 6rem;
+    line-height: 1.8em;
+}
+
+.sql2 h3 {
+    padding-right: 2rem;
+    padding-left: 6rem;
+}
+
+.sql2 {
+    width: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.sql3 {
+    width: 50%;
+}
+
+.dig1 {
+    width: 50%;
+}
+
+.dig2 {
+    width: 50%;
+}
+
+.dig1 img {
+    padding-left: 5rem;
+    padding-right: 1rem;
+    padding-top: 4rem;
+}
+
+.dig2 p {
+    padding-right: 6rem;
+    padding-bottom: 2rem;
+}
+
+.sqlalert {
+    padding-top: 4rem;
+}
+
+.sqlalert p {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    line-height: 1.8em;
+}
+
+.sqlalert img {
+    padding-right: 6rem;
+    padding-left: 6rem;
+}
+
+.shield img {
+    max-width: 100%;
+}
+
+.lock {
+    padding-left: 6rem;
+}
+
+.shield {
+    padding-right: 4rem;
+}
+
+.getstartedfree p {
+    padding-left: 6rem;
+    padding-right: 6rem;
+    line-height: 1.8em;
+}
+
+.convinced p {
+    font-size: .85rem;
+    line-height: 1.8em;
+}
+
+.footerbar {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
